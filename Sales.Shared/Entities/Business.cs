@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Sales.Shared.Entites;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
